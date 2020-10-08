@@ -14,7 +14,7 @@
 
 ## Dataset Generation
 
-[generate.sh](name-dataset/blob/master/generate/index.sh)
+[generate.sh](//github.com/Debdut/names.io/blob/master/generate/index.sh)
 
 - [listofrandomnames.com](http://listofrandomnames.com/index.cfm?generated)
 - [sajari.com 5000 Names around the Globe](https://www.sajari.com/public-data)
